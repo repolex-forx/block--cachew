@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/cachew/commit/57af02da05f1031d726168914ac6a9ed22cdd9fc",
       "git:hexsha": "57af02da05f1031d726168914ac6a9ed22cdd9fc",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.5.3"
     },
     {
