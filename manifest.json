@@ -1079,7 +1079,9 @@
           "githubUrl": "https://github.com/alecthomas/repr",
           "source": "build_file:go.mod"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/57af02da05f1031d726168914ac6a9ed22cdd9fc/chunk-001.nq.gz",
+      "dep": "dep/57af02da05f1031d726168914ac6a9ed22cdd9fc.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",

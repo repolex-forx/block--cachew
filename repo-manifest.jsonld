@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/block/cachew/commit/57af02da05f1031d726168914ac6a9ed22cdd9fc",
       "git:hexsha": "57af02da05f1031d726168914ac6a9ed22cdd9fc",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "v0.5.3"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.5.3",
+      "repolex:parsedAt": "2026-10-01T08:11:48.610337+00:00"
     },
     {
       "@id": "https://repolex.ai/r/block/cachew/commit/2802417f18aad35a0cf68d6829063ea171c670e8",
